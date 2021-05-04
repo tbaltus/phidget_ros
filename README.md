@@ -15,7 +15,7 @@ Clone the following package in the src folder of your catkin workspace
 git clone https://github.com/tbaltus/phidget_ros
 ```
 
-# Running/Launching
+# Running
 
 Run `catkin_make` first
 
@@ -28,7 +28,7 @@ rosrun phidget_ros phidget
 
 # Topics of interest
 
-You can retrieve orientations of the sensors
+You can retrieve orientations of the sensors in the topic below
 
 ```
 /EE_cartesian_orientation
